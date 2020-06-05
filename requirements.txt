@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-Django==2.1.4
+Django==2.2.13
 idna==2.7
 python-crontab==2.3.5
 python-dateutil==2.7.5
